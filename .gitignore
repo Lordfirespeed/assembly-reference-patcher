@@ -1,0 +1,47 @@
+# Exclude everything
+/*
+
+# Specific includes
+
+## Editorconfig
+!.editorconfig
+
+## Build System/Scripts
+!/.config
+!/global.json
+!/nuget.config
+!/Directory.Build.props
+!/Directory.Build.targets
+!/Directory.Packages.props
+!/build.sh
+!/makefile
+
+## Markdowns
+!*.md
+!/LICENSE
+!/licenses
+
+## important Git files
+!.gitmodules
+!.gitignore
+!.gitattributes
+!.git-blame-ignore-revs
+
+## GitHub specific
+!/.github
+
+## Libraries
+!/libs
+
+## Solution
+!/assembly-reference-patcher.sln
+
+### AsmRefPatcher Projects
+!/AsmRefPatcher*/
+/AsmRefPatcher*/[Bb]in/
+/AsmRefPatcher*/[Oo]bj/
+
+# Explicit exceptions/ignores
+**.user
+**.local
+!**.template.*.user
