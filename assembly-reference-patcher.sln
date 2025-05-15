@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsmRefPatcher", "AsmRefPatcher\AsmRefPatcher.csproj", "{6C27D4A8-6254-40F6-B542-09D76F56CE79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsmRefPatcher.Core", "AsmRefPatcher.Core\AsmRefPatcher.Core.csproj", "{6C27D4A8-6254-40F6-B542-09D76F56CE79}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsmRefPatcher.Cli", "AsmRefPatcher.Cli\AsmRefPatcher.Cli.csproj", "{8323FFD2-BA07-405B-B308-388F01FA5E29}"
 EndProject
