@@ -2,6 +2,12 @@
   "version": 2,
   "dependencies": {
     "net8.0": {
+      "ConsoleAppFramework": {
+        "type": "Direct",
+        "requested": "[5.*, 6.0.0)",
+        "resolved": "5.4.1",
+        "contentHash": "2QlC0lYN8Qfu9Hwe+6tp/ZqG8gFN4jTHgaOQwpszLYa6Mtw2rXcsacaSBqS+Gt6HeO8oSSJJdKze6AnYuHSN6A=="
+      },
       "MinVer": {
         "type": "Direct",
         "requested": "[6.*, 7.0.0)",
