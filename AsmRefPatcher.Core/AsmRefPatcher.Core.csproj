@@ -3,5 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
+  
+  <!-- Runtime dependencies -->
+  <ItemGroup>
+    <PackageReference Include="Mono.Cecil" />
+    <PackageReference Include="Serilog" />
+    <PackageReference Include="System.Reflection.Metadata" />
+  </ItemGroup>
 
 </Project>
