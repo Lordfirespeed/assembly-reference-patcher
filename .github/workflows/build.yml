@@ -39,10 +39,6 @@ jobs:
         with:
           dotnet-version: "9"
 
-      - name: Restore solution
-        run: |
-          dotnet restore -c Release
-
       - name: Build solution
         run: |
           dotnet build -c Release
