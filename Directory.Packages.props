@@ -24,6 +24,7 @@
 
   <!-- Development dependencies -->
   <ItemGroup>
+    <PackageVersion Include="ConsoleAppFramework" Version="[5.*, 6.0.0)" />
     <PackageVersion Include="MinVer" Version="[6.*, 7.0.0)" />
     <PackageVersion Include="PolySharp" Version="[1.*, 2.0.0)" />
     <PackageVersion Include="JetBrains.Annotations" Version="[2024.*, 2025.0.0)" />
