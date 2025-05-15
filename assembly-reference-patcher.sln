@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsmRefPatcher", "AsmRefPatcher\AsmRefPatcher.csproj", "{6C27D4A8-6254-40F6-B542-09D76F56CE79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsmRefPatcher.Cli", "AsmRefPatcher.Cli\AsmRefPatcher.Cli.csproj", "{8323FFD2-BA07-405B-B308-388F01FA5E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C27D4A8-6254-40F6-B542-09D76F56CE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C27D4A8-6254-40F6-B542-09D76F56CE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C27D4A8-6254-40F6-B542-09D76F56CE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C27D4A8-6254-40F6-B542-09D76F56CE79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8323FFD2-BA07-405B-B308-388F01FA5E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8323FFD2-BA07-405B-B308-388F01FA5E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8323FFD2-BA07-405B-B308-388F01FA5E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8323FFD2-BA07-405B-B308-388F01FA5E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
